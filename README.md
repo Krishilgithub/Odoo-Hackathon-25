@@ -1,9 +1,8 @@
 # 💰 **Fintrix: Empowering Financial Efficiency**
-![Fintech Illustration](https://via.placeholder.com/800x400.png?text=Empowering+Financial+Efficiency)
 
 ## 🌟 **About the Project**
 **Fintrix** is our innovative fintech solution being developed for **Odoo Hackathon 2025**!  
-We aim to create a platform that simplifies financial management for businesses, leveraging Odoo’s capabilities for seamless integration and automation.
+We aim to create a platform that simplifies business financial management, leveraging Odoo’s capabilities for seamless integration and automation.
 
 ### 🛠 **Key Features**
 - 💳 **Expense Management**: Track and manage expenses effortlessly.
@@ -15,23 +14,23 @@ We aim to create a platform that simplifies financial management for businesses,
 
 ## 👨‍💻 **Team Roles & Responsibilities**
 
-1. **👩‍💻 Backend Developer (Mahek)**
+1. **👩‍💻 Backend Developer**
    - Develop APIs and business logic in Odoo.
    - Ensure database consistency and efficiency.
    - Implement security measures for sensitive data.
 
-2. **🎨 Frontend Developer (Dharini)**
+2. **🎨 Frontend Developer**
    - Create an interactive and user-friendly UI using React and Odoo templates.
    - Integrate APIs for seamless data flow.
    - Handle responsive design for different devices.
 
-3. **⚙️ Odoo Customization Specialist (Krishil)**
+3. **⚙️ Odoo Customization Specialist**
    - Customize Odoo modules for fintech-specific requirements.
-   - Set up Odoo server and manage configurations.
+   - Set up the Odoo server and manage configurations.
    - Collaborate with the backend to integrate customized features.
 
-4. **📈 Data Analyst & Tester (Aditya)**
-   - Analyze and validate fintech workflows and data.
+4. **📈 Data Analyst & Tester**
+   - Analyze and validate FinTech workflows and data.
    - Test features for performance, scalability, and reliability.
    - Create meaningful dashboards and reports using Odoo tools.
 
@@ -54,3 +53,14 @@ We aim to create a platform that simplifies financial management for businesses,
  ┃ ┣ 📜 reports.py  
  ┃ ┗ 📜 dashboard.py  
  ┗ README.md  
+
+```
+
+## 🚀 **Getting Started**
+
+### 🔧 Prerequisites
+Before you begin, ensure you have the following tools installed:
+- [Git](https://git-scm.com/) - Version control system.
+- [Python](https://www.python.org/) - Backend development and Odoo integration.
+- [Node.js](https://nodejs.org/) - Frontend development environment.
+- An Odoo instance set up and running.
